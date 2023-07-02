@@ -1,0 +1,40 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Container Styles */
+.container {
+  margin: 20px;
+}
+
+/* Form Styles */
+.form-group {
+  margin-bottom: 10px;
+}
+
+/* Button Styles */
+.btn {
+  background-color: #333;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #555;
+}
+
+/* Options Styles */
+.options {
+  margin-top: 20px;
+  text-align: center;
+}
